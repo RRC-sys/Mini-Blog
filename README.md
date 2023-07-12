@@ -1,3 +1,3 @@
-### Projeto feito com react e Firbase
+### Projeto feito com React e Firbase
 
 ### `npm start`
